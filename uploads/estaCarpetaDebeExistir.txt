@@ -1,0 +1,1 @@
+La carpeta uploads se usa en el proyecto para almacenar las imagenes.
