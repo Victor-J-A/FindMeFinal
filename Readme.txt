@@ -1,4 +1,4 @@
-El usuario con derechos de administrador tiene como correo root@gmail.com.
+El usuario con derechos de administrador tiene como correo root@gmail.com
 
 Cualquier otro usuario no podrá administrar las denuncias de la pagina ni entrar en listar usuarios.
 
